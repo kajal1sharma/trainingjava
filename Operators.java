@@ -1,14 +1,32 @@
 public class Operators {
     public static void main(String[] args) {
+       
         
-        int a =10 ;
-        int b = 10;
+        // increment and decrement operators
+
+
+        int a =10;
+        
+        int b= a++ + ++a + ++a + a++;
+        System.out.println(a);
+        System.out.println(b);
+        // int b =++a;
+        // pre increment 
+
+        // int b = ++a;
+        // System.out.println(a);
+        // System.out.println(b);
+        // post increment 
+
+
+        // int a =10 ;
+        // int b = 10;
 
 
         // logical operators
         // && || !
 
-        System.out.println(!false);
+        // System.out.println(!false);
         // !true
 
     //    System.out.println( false  || false);
