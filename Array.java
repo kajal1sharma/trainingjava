@@ -44,6 +44,7 @@ public class Array {
 
         // Q:sort the array
 
+        // 
         int arr[] = {2,6,3,8,5,3,7,9,2,5,8};
 
         // cycles 
