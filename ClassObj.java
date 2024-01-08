@@ -26,6 +26,7 @@ public class ClassObj {
         ref.age=23;
         System.out.println(ref.name);
         System.out.println(ref.age);
+        Person obj2 = new Person();
     }
 }
 
