@@ -1,3 +1,97 @@
 Q. Write a Java program to create a class 
 called "Book" with attributes for title, author, and ISBN, 
 and methods to add and remove books from an array.
+
+Q
+1                                                                                
+12                                                                               
+123                                                                              
+1234                                                                             
+12345                                                                            
+123456                                                                           
+1234567                                                                          
+12345678                                                                         
+123456789                                                                        
+12345678910
+
+Q 
+1
+22
+333
+4444
+
+
+Q 
+1
+2 3
+4 5 6
+7 8 9 10 
+
+
+Q 
+1
+2 2
+3 3 3
+4 4 4 4 
+
+Q 
+1 
+2 3 
+4 5 6 
+7 8 9 10 
+11 12 13 14 15 
+
+Q 
+      *                                                                          
+     ***                                                                         
+    *****                                                                        
+   *******                                                                       
+  *********                                                                      
+ ***********                                                                     
+*************                                                                    
+ ***********                                                                     
+  *********                                                                      
+   *******                                                                       
+    *****                                                                        
+     ***                                                                         
+      *
+      
+Q 
+    1                                                                          
+   1 1                                                                         
+  1 2 1                                                                        
+ 1 3 3 1                                                                       
+1 4 6 4 1 
+
+Q 
+      1                                                  
+     212                                                 
+    32123                                                
+   4321234                                               
+  543212345                                              
+ 65432123456                                             
+7654321234567                                            
+ 65432123456                                             
+  543212345                                              
+   4321234                                               
+    32123                                                
+     212                                                 
+      1 
+
+
+Q 
+      A                                                  
+     ABA                                                 
+    ABCBA                                                
+   ABCDCBA                                               
+  ABCDEDCBA                                              
+ ABCDEFEDCBA                                             
+ABCDEFGFEDCBA                                            
+ ABCDEFEDCBA                                             
+  ABCDEDCBA                                              
+   ABCDCBA                                               
+    ABCBA                                                
+     ABA                                                 
+      A  
+
+      
