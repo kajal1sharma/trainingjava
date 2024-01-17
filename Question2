@@ -95,3 +95,17 @@ ABCDEFGFEDCBA
       A  
 
       
+
+create a class called Shape.
+inside shape we have two functions getparam, getarea
+
+Shape has two child classes => rectangle and circle 
+in which define these two function 
+
+
+
+
+
+
+
+
