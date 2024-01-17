@@ -96,7 +96,7 @@ ABCDEFGFEDCBA
 
       
 
-create a class called Shape.
+Q:  create a class called Shape.
 inside shape we have two functions getparam, getarea
 
 Shape has two child classes => rectangle and circle 
