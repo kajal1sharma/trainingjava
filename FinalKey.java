@@ -22,8 +22,10 @@
 //     int amount;
 // }
 
-// final classes cannot be inherited , final methods cannot be overridden , final properties can be initialized only once
-// if static property is there then it can be initialized either directly or in the static block
+// final classes cannot be inherited , final methods cannot be 
+// overridden , final properties can be initialized only once
+// if static property is there then it can be initialized either 
+// directly or in the static block
 // if non static property is ther then initialization can be done 
 // directly or in the constructor
 
